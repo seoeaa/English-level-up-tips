@@ -1,128 +1,118 @@
-[`简体中文`](docs/README.md) | [`English`](docs/en/README.md)
+[`简体中文`](docs/README.md) | [`English`](docs/en/README.md) | [`Русский`](docs/ru/README.md)
 
-谨以此献给我曾今的挚爱 `W.`
+Посвящается моей бывшей возлюбленной `W.`
 
-> 我们每个人都生活在各自的过去中，人们会用一分钟的时间去认识一个人，用一小时的时间去喜欢一个人，再用一天的时间去爱上一个人，到最后呢，却要用一辈子的时间去忘记一个人。
+> Каждый из нас живёт в собственном прошлом. Люди тратят одну минуту на то, чтобы узнать человека, один час — чтобы понравиться ему, один день — чтобы полюбить. Но потом нужна целая жизнь, чтобы его забыть.
 
 ![](./docs/assets/my-love.png)
 
-# 项目介绍
+# О проекте
 
-An advanced guide to learn English which might benefit you a lot.
+Продвинутый guide по изучению английского языка, который может оказаться вам полезным.
 
-[离谱的英语学习指南/英语学习教程](https://github.com/byoungd/English-level-up-tips)。
+[Невероятный гайд по изучению английского](https://github.com/byoungd/English-level-up-tips).
 
-## 推荐资源：ku0.com - 库
+## Предыстория
 
-如果你在使用本指南里的 AI 学习方案时，需要更稳定、可信的 AI 账户与接口资源，可以看看我们的产品：[ku0.com - 库](https://ku0.com)。
+Привет, друг — добро пожаловать в [гайд по изучению английского](https://github.com/byoungd/English-level-up-tips).
 
-`ku0.com` 是一个可信任 AI 资源库，可一站式获取 `ChatGPT`、`Claude`、`Gemini` 账户充值、成品号和号池资源。我们用 Token 质检和统一网关筛掉不稳定、掺水、冒名的中转服务，并通过可信账户资源、质检报告和接入记录，帮助你降低 AI 使用成本与采购风险。
+Вернёмся в начало июля 2017 года. `W.`, готовившаяся к TOEFL, задала мне вопрос: **как эффективно выучить английский?**
 
-## 背景
+Размышляя над ответом, я вспомнил, как за один семестр сдал 26 предметов (19 из них — пересдачи), а также тот факт, что мне однажды повезло занять первое место в провинции сразу по `английскому` и `китайскому` языку на выпускном экзамене (Цзянсу). Возможно, я был достаточно квалифицирован, чтобы поделиться несколькими практическими советами.
 
-你好啊朋友，欢迎来到[离谱的英语学习指南](https://github.com/byoungd/English-level-up-tips)。
+После разговора с ней я понял две вещи:
 
-当你的目光与这些文字相遇，我衷心希望，这不仅仅是一次攻克英语的艰苦征程，更是一场开启智慧之门的奇妙冒险。愿这方寸纸墨，化作你我心灵共鸣的琴弦，弹奏出语言学习的天籁妙音。
+- Некоторые люди невероятно увлечены учёбой.
+- Многие из нас страдают от неэффективных методов, тревожности и чувства вины вокруг обучения.
 
-时间回到 2017 年 7 月初，备考托福的女神`W.`问了我一个问题：**如何高效学习英语？**
+Они даже не задумывались: **английский — это язык, и учить его должно быть так же естественно, как мы когда-то естественно выучили русский**.
 
-在我思考如何回答这个问题时，回想起我在大四一学期一次性考过 26 门课的经验（其中重修 19 门，当前学期 7 门），再加上本人`英语` 和 `语文` 两门学科曾**侥幸**在高考时摘得省第一（江苏卷），或许我勉强有资格提供一些`高效学习`的`小技巧`，权当抛砖引玉。
-
-与她交流了一番学习心得后，我惊讶于她在学习方面的热情竟是如此之高，同时也发现了她的学习方法存在一些`不可取之处`。
-
-于是我写了一篇简单的文章零散地介绍了下我学习英语的心得体会，几天后她告诉我，希望我可以将这些学习经验稍加整理，分享给更多有需要的人。
-
-在此之前，我并不知道原来有那么多同学在学习英语的这件事上磕磕绊绊。
-
-他们甚至从未想过：**英语作为一门语言，学习起来应该是一件比较自然而然的事情，就像我们自然而然地学会汉语那样**。
-
-我由衷地希望大家能**热爱**学习英语这件事情，如果做不到，那就尝试着去发现这件事情的乐趣亦或是收益。请允许我奉上乔布斯的一段话(原话指的是工作，表达的意思却是相似的)：
+Я искренне надеюсь, что вы сможете **полюбить** изучение английского. Если не получается — попробуйте найти в этом удовольствие или практическую пользу. Позвольте мне привести слова Стива Джобса (он говорил о работе, но смысл тот же):
 
 The only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle. As with all matters of the heart, you'll know when you find it.
 
-> > > 成就一番伟业的唯一途径就是热爱自己的事业。如果你还没能找到让自己热爱的事业，继续寻找，不要放弃。跟随自己的心，总有一天你会找到的。
+> > > Единственный способ сделать великое дело — любить то, что делаешь. Если ты ещё не нашёл — продолжай искать. Не останавливайся. Как и во всём, что касается сердца, ты поймёшь, когда найдёшь.
 
-**热爱之于学习**，同样如此。
+**Страсть к обучению** — то же самое.
 
-在这份指南里，我会尽可能地综合我主观的看法与一定的科学依据，为大家提供一份详尽的英语进阶指南，**真心希望本指南能给你带来一点小小的帮助**。
+В этом руководстве я постараюсь объединить свой личный опыт и научные данные, чтобы предоставить вам подробный guide по продвижению в английском. **Искренне надеюсь, что этот гайд принесёт вам хотя бы небольшую пользу**.
 
-## 英语水平等级
+## Уровни владения английским
 
-![CERF@2x.png](docs/assets/CEFR@2x.png)
+![CEFR](docs/assets/CEFR@2x.png)
 
-> 本图主要参考 [Global scale - Table 1 (CEFR 3.3): Common Reference levels](http://www.coe.int/en/web/common-european-framework-reference-languages/table-1-cefr-3.3-common-reference-levels-global-scale)
+> Источник: [Global scale - Table 1 (CEFR 3.3): Common Reference levels](http://www.coe.int/en/web/common-european-framework-reference-languages/table-1-cefr-3.3-common-reference-levels-global-scale)
 
-## 特色
+## Особенности
 
-![特色介绍](docs/assets/feature.svg)
+![Особенности](docs/assets/feature.svg)
 
-## 章节
+## Главы
 
-[![understanding](docs/assets/understanding@2x.svg)](docs/threads/part-1/1-understanding.md)
+[![understanding](docs/assets/understanding@2x.svg)](docs/ru/threads/part-1/1-understanding.md)
 
-[![vocabulary](docs/assets/vocabulary@2x.svg)](docs/threads/part-1/2-vocabulary.md)
+[![vocabulary](docs/assets/vocabulary@2x.svg)](docs/ru/threads/part-1/2-vocabulary.md)
 
-[![listening](docs/assets/listening@2x.svg)](docs/threads/part-1/3-listening.md)
+[![listening](docs/assets/listening@2x.svg)](docs/ru/threads/part-1/3-listening.md)
 
-[![reading](docs/assets/reading@2x.svg)](docs/threads/part-1/4-reading.md)
+[![reading](docs/assets/reading@2x.svg)](docs/ru/threads/part-1/4-reading.md)
 
-[![speaking](docs/assets/speaking@2x.svg)](docs/threads/part-1/5-speaking.md)
+[![speaking](docs/assets/speaking@2x.svg)](docs/ru/threads/part-1/5-speaking.md)
 
-[![writing](docs/assets/writing@2x.svg)](docs/threads/part-1/6-writing.md)
+[![writing](docs/assets/writing@2x.svg)](docs/ru/threads/part-1/6-writing.md)
 
-[![ai](docs/assets/ai@2x.svg)](docs/threads/part-1/7-ai.md)
+[![ai](docs/assets/ai@2x.svg)](docs/ru/threads/part-1/7-ai.md)
 
-新增的 AI 章节已经更新为 `2026` 版，重点不再只是通用 Prompt，而是更系统地回答：
+Глава об ИИ обновлена до версии `2026`. Фокус больше не на общих промптах — глава системно отвечает на вопросы:
 
-- 为什么现在更推荐把 `Gemini` 作为英语学习主引擎
-- 如何把 `Gem / Live / Guided Learning / Canvas / quiz / flashcards` 串成完整训练流程
-- 除了 Gemini 之外，`ChatGPT / Claude / Perplexity / DeepL Write` 应该如何分工使用
-- 怎样设计真正能长期起作用的听说读写训练回路
+- Почему `Gemini` сейчас — лучший основной инструмент для изучения английского
+- Как выстроить полноценный тренировочный цикл: `Gem / Live / Guided Learning / Canvas / quiz / flashcards`
+- Как распределить задачи между `ChatGPT / Claude / Perplexity / DeepL Write`
+- Как создать тренировочные циклы для аудирования, говорения, чтения и письма, которые работают долгосрочно
 
-如果你想把 AI 真正变成英语学习的加速器，而不只是偶尔帮你翻译两句，这一章值得重点看。
+Если вы хотите превратить ИИ в настоящий ускоритель изучения языка, а не просто иногда просить перевести пару фраз — эта глава обязательна к прочтению.
 
-[![word-list](docs/assets/word-list@2x.svg)](docs/threads/word-list/Common.md)
+[![word-list](docs/assets/word-list@2x.svg)](docs/ru/threads/word-list/Common.md)
 
-[![Others@2x.png](docs/assets/Others@2x.svg)](docs/threads/part-2/x-misc.md)
+[![Others@2x.png](docs/assets/Others@2x.svg)](docs/ru/threads/part-2/x-misc.md)
 
-[我的故事](docs/threads/part-2/my-story.md)
+[Моя история](docs/ru/threads/part-4/my-story.md)
 
-## 感谢
+## Благодарности
 
-- 感谢所有关心以及为这份指南做出贡献的人 ❤️
+- Спасибо всем, кто интересовался и вносил вклад в это руководство ❤️
 
-## 番外篇
+## Дополнительно
 
-聊聊我的个人成长经历中的爱情部分，欢迎查阅 [离谱的前女友们](https://github.com/byoungd/how-to-find-love)
+О любовной части моей личной истории — добро пожаловать в [Невероятные бывшие](https://github.com/byoungd/how-to-find-love)
 
-如果你想看我在创业失败后那段时间的真实经历，也可以读这篇：[我的故事](docs/threads/part-2/my-story.md)
+Если хотите прочитать о моём реальном опыте после провала стартапа: [Моя история](docs/ru/threads/part-4/my-story.md)
 
-## 在线阅读
+## Читать онлайн
 
-- 知乎 [离谱的英语学习指南](https://zhuanlan.zhihu.com/p/444211376)
 - GitHub Pages [English-level-up-tips](https://byoungd.github.io/English-level-up-tips/#/)
 - GitBook [English-level-up-tips](https://babyyoung.gitbook.io/english-level-up-tips/)
 
-## 转载声明
+## Перепечатка
 
-转载本指南，请注明作者与 GitHub 链接，谢谢！
+При перепечатке этого руководства укажите автора и ссылку на GitHub. Спасибо!
 
-## 协议/License
+## Лицензия
 
-本作品采用知识共享署名-非商业性使用 4.0 国际许可协议进行许可。
+Это произведение лицензировано по лицензии Creative Commons Attribution-NonCommercial 4.0 International.
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a> <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"></a>
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a>
 
-## 特别声明
+## Особое заявление
 
-有不少热心的小伙伴来信，表明本指南写的很用心，认为对其学习英语有一定的帮助，希望能进行赞赏。
+Многие читатели писали, что руководство написано с душой и помогло им в изучении английского, и хотели поддержать автора материально.
 
-**命运已经给了离谱诸多额外的馈赠，便不再需要其他奖赏**。
+**Судьба уже подарила автору достаточно — никакой дополнительной награды не требуется**.
 
-统一声明：**本指南不接受也不需要金钱上的赞助**。
+Официальная позиция: **данное руководство не принимает и не нуждается в финансовой поддержке**.
 
-请把你那些原本想用来赞赏的零钱给自己买几本好书。
+Потратьте те деньги, которые хотели бы пожертвовать, на несколько хороших книг для себя.
 
-    学习，难道不是人生最棒的乐趣么？
+    Разве учиться — не величайшее удовольствие в жизни?
 
 > Cheers and Enjoy :)
